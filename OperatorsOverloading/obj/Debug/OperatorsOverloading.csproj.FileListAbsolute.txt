@@ -1,0 +1,15 @@
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\bin\Debug\OperatorsOverloading.exe.config
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\bin\Debug\OperatorsOverloading.exe
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\bin\Debug\OperatorsOverloading.pdb
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\obj\Debug\OperatorsOverloading.csprojResolveAssemblyReference.cache
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\obj\Debug\OperatorsOverloading.exe
+C:\Users\veaceslav.barbarii\Desktop\OperatorsOverloading\OperatorsOverloading\obj\Debug\OperatorsOverloading.pdb
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\bin\Debug\OperatorsOverloading.exe.config
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\obj\Debug\OperatorsOverloading.exe
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\obj\Debug\OperatorsOverloading.pdb
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\obj\Debug\OperatorsOverloading.csprojResolveAssemblyReference.cache
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\bin\Debug\OperatorsOverloading.exe
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading V Barbarii\OperatorsOverloading\bin\Debug\OperatorsOverloading.pdb
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading\OperatorsOverloading\bin\Debug\OperatorsOverloading.exe.config
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading\OperatorsOverloading\obj\Debug\OperatorsOverloading.exe
+C:\Users\iulian.cemirtan\Desktop\Internship\2 week\Overloading\OperatorsOverloading\OperatorsOverloading\obj\Debug\OperatorsOverloading.pdb
