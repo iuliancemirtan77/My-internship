@@ -1,0 +1,5 @@
+C:\Users\iulian.cemirtan\Desktop\Linq anonimous\Linq anonimous\bin\Debug\Linq anonimous.exe.config
+C:\Users\iulian.cemirtan\Desktop\Linq anonimous\Linq anonimous\bin\Debug\Linq anonimous.exe
+C:\Users\iulian.cemirtan\Desktop\Linq anonimous\Linq anonimous\bin\Debug\Linq anonimous.pdb
+C:\Users\iulian.cemirtan\Desktop\Linq anonimous\Linq anonimous\obj\Debug\Linq anonimous.exe
+C:\Users\iulian.cemirtan\Desktop\Linq anonimous\Linq anonimous\obj\Debug\Linq anonimous.pdb
